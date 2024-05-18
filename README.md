@@ -1,1 +1,1 @@
-# chatting-plagtform
+# chatting-platform
